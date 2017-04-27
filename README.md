@@ -29,9 +29,10 @@ After all of your HTML is written, you can begin styling your pages using the st
 Be sure to validate your html.
 Consult the specs below these instructions for advice on styling your CSS files.
 Push your changes to Github.
+<p>
+
 Additional Specifcations
 
-<p>
 Colors Pro-tip: Use the Eye Dropper Chrome extension to find the colors used on web pages.
 Teal color (used for headings and backgrounds): #4aaaa5
 Regular font color (used for paragraphs and all text besides the headings): #777777
@@ -60,9 +61,10 @@ The entire content area is 960px wide.
 The main section content is 650px wide.
 The sidebar is 270px wide.
 Pro-tip: Use the Page Ruler extension to measure the size of elements.
-Bonus
+
 </p>
 
+Bonus
 Make your pages more sophisticated by adding style to text links, to image links, and to buttons for when a user hovers their cursor over them. A CSS hover tutorial can be found here.
 You can use Adobe Kuler to find colors that match the theme (in this case, the primary color is Teal #4aaaa5).
 Make a "sticky footer." You will notice the dark grey footer will always rest just below the content. This is fine whenever your site has enough content to push it down past the height of most monitors. But if there isn't much content in the body, the footer could rest in the middle of the page: 
