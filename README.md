@@ -2,6 +2,9 @@
 This is the first homework assignment given in the Coding Boootcamp. 
 <p>
 Instructions:
+</p>
+
+<p>
 Create a new repository in GitHub called Basic-Portfolio.
 Clone this repository to your computer using the process we went over in class.
 Navigate to the Basic-Portfolio folder that you just cloned onto your machine. Inside this folder, create the following:
@@ -13,8 +16,8 @@ In the css folder, make a file called reset.css, and include the code found from
 In the images folder, save the images you plan on using (like your profile image, the placeholder images for the portfolio, and the social icon images).
 Push the above changes to GitHub.
 Make sure to git add . and git commit -m "initial site files". Then type git push origin master to push your changes to your GitHub repo.
-
 </p>
+
 Reference these screenshots for your site:
 IMPORTANT Your site's layout must match the designs in these screenshots. You'll find the specs for these designs below.
 When you create a website, it's standard practice to code your HTML files before writing any CSS and to write up one HTML file before moving onto the next. Write your HTML semantically, too:
